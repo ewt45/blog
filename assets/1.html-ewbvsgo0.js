@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./app-DMogTwpC.js";const n={};function c(o,r){return t(),a("div")}const l=e(n,[["render",c],["__file","1.html.vue"]]),_=JSON.parse('{"path":"/tags/vscodeyuanchengfangwen/1.html","title":"","lang":"zh-CN","frontmatter":{"layout":"Categories"},"headers":[],"git":{},"filePathRelative":null}');export{l as comp,_ as data};
